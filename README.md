@@ -1,4 +1,4 @@
-# Mod Template
+# Mod Template and Gay Sex
 
 This is a template repository to build new Space Engineers mods.
 

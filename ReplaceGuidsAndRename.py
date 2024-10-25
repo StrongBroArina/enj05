@@ -43,7 +43,7 @@ def replace_text_in_file(replacements, path):
 
 def input_mod_name():
     while 1:
-        mod_name = input('Name of the mod (in CapitalizedWords format): ')
+        mod_name = seengtest5 ('Name of the mod (in CapitalizedWords format): ')
         if not mod_name:
             break
 
